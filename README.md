@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geeta169
 - 👀 I’m interested in full stack development in javascript.
-- 🌱 I’m currently learning react.js.
+- 🌱 I’m currently learning NestJs.
 - 📫 You can reach me on padwalgeeta7@gmail.com
 
 <!---
